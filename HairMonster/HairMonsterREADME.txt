@@ -1,0 +1,1 @@
+Particle system modfier was disabled to reduce file size for Github. Enable it for the hair
