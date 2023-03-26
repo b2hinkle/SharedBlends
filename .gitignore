@@ -1,0 +1,12 @@
+# Blender backup files
+**/*.blend[1-9]
+
+# Krita backup files
+**/*.kra~
+
+# Idk what this is but some other guy had this
+**/dist/
+
+# Python garbage
+**/*.pyc
+**/__pycache__
